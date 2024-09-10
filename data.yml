@@ -152,8 +152,6 @@ categories:
             description: The VoicePilot project at Carnegie Mellon University develops a speech interface for physically assistive robots, enhancing communication through large language models (LLMs). The framework enables personalized and robust voice commands, improving care for individuals with motor impairments. Tested on the Obi assistive feeding robot, the study established five guidelines for effective speech integration in assistive technology.
             homepage_url: https://www.cmu.edu/news/stories/archives/2024/august/voicepilot-framework-enhances-communication-between-humans-and-physically-assistive-robots
             logo: cmu.svg
-            repo_url: https://github.com/OpenForumAI/landscape
-            twitter: https://twitter.com/CloudNativeFdn
           - name: Eye into AI
             description: A novel approach using games to evaluate explainable AI (XAI) techniques by gathering human feedback on model transparency.
             homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
