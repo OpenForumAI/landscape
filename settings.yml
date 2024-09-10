@@ -202,8 +202,8 @@ grid_items_size: large
 
 header:
   links:
-    github: "https://github.com/flaxandteal/oak"
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf-landscape/horizontal/color/cncf-landscape-horizontal-color.svg"
+    github: "https://github.com/OpenForumAI/landscape"
+  logo: "https://www.cmu.edu/common/standard-v6/images/cmu-wordmark.png"
 
 # Images (optional)
 #
