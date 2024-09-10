@@ -13,12 +13,15 @@ categories:
             description: DIG integrates machine learning and human-computer interaction to enable more intuitive data analysis tools.
             homepage_url: https://dig.cmu.edu
             logo: cmu.svg
-            project: graduated
+            # project: graduated
           - name: Human-Centered Data Lab
             description: This lab works with educational data to improve learning outcomes using AI-driven analysis and cognitive modeling.
             homepage_url: https://www.cs.cmu.edu
             logo: cmu.svg
             project: sandbox
+            extra:
+              summary_tags: "security, networking, cloud"
+              tag: test-tag
       - name: Design/architecture
         items:
           - name: Kittur Lab
@@ -32,7 +35,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Compute
         items:
@@ -41,7 +44,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Model weights
         items:
@@ -50,7 +53,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Human feedback
         items:
@@ -69,7 +72,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Intended vs unintended usage
         items:
@@ -84,7 +87,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Oversight
         items:
@@ -93,7 +96,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
   
   - name: Technical Prototypes
@@ -123,7 +126,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Compute
         items:
@@ -132,7 +135,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Model weights
         items:
@@ -141,7 +144,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Human feedback
         items:
@@ -149,7 +152,7 @@ categories:
             description: The VoicePilot project at Carnegie Mellon University develops a speech interface for physically assistive robots, enhancing communication through large language models (LLMs). The framework enables personalized and robust voice commands, improving care for individuals with motor impairments. Tested on the Obi assistive feeding robot, the study established five guidelines for effective speech integration in assistive technology.
             homepage_url: https://www.cmu.edu/news/stories/archives/2024/august/voicepilot-framework-enhances-communication-between-humans-and-physically-assistive-robots
             logo: cmu.svg
-            repo_url: https://github.com/flaxandteal/oak
+            repo_url: https://github.com/OpenForumAI/landscape
             twitter: https://twitter.com/CloudNativeFdn
           - name: Eye into AI
             description: A novel approach using games to evaluate explainable AI (XAI) techniques by gathering human feedback on model transparency.
@@ -166,7 +169,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Intended vs unintended usage
         items:
@@ -181,7 +184,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Oversight
         items:
@@ -190,7 +193,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
   
   - name: Community Engagement  
@@ -202,7 +205,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Design/architecture
         items:
@@ -211,7 +214,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Code
         items:
@@ -220,7 +223,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Compute
         items:
@@ -229,7 +232,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Model weights
         items:
@@ -238,7 +241,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Human feedback
         items:
@@ -247,7 +250,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Evaluations
         items:
@@ -256,7 +259,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Intended vs unintended usage
         items:
@@ -265,7 +268,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Expertise, education, training
         items:
@@ -280,7 +283,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
   
   - name: Policy Recommendations 
@@ -292,7 +295,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Design/architecture
       items:
@@ -301,7 +304,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Code
       items:
@@ -310,7 +313,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Compute
       items:
@@ -319,7 +322,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Model weights
       items:
@@ -328,7 +331,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Human feedback
       items:
@@ -337,7 +340,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Evaluations
       items:
@@ -346,7 +349,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Intended vs unintended usage
       items:
@@ -355,7 +358,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Expertise, education, training
       items:
@@ -364,7 +367,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
     - name: Oversight
       items:
@@ -373,7 +376,7 @@ categories:
         #   description: This is the description of item 6
         #   homepage_url: https://cncf.io
         #   logo: cmu.svg
-        #   repo_url: https://github.com/flaxandteal/oak
+        #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
   
   - name: Talent for Service 
@@ -391,7 +394,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Code
         items:
@@ -400,7 +403,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Compute
         items:
@@ -409,7 +412,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Model weights
         items:
@@ -418,7 +421,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Human feedback
         items:
@@ -427,7 +430,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Evaluations
         items:
@@ -436,7 +439,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Intended vs unintended usage
         items:
@@ -445,7 +448,7 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
       - name: Expertise, education, training
         items:
@@ -468,5 +471,5 @@ categories:
           #   description: This is the description of item 6
           #   homepage_url: https://cncf.io
           #   logo: cmu.svg
-          #   repo_url: https://github.com/flaxandteal/oak
+          #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
