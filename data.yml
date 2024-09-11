@@ -98,7 +98,13 @@ categories:
           #   logo: cmu.svg
           #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
-  
+      - name: Other
+        items:
+          - name: Interactive Structures Lab
+            description: Focuses on computational tools that help novice users create interactive, functional structures with AI-supported digital fabrication.
+            homepage_url: http://interactive-structures.org
+            logo: cmu.svg
+
   - name: Technical Prototypes
     subcategories:
       - name: Data
@@ -193,6 +199,12 @@ categories:
           #   logo: cmu.svg
           #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Other
+        items:
+          - name: "d.form and d.stable Labs"
+            description: This lab explores human-AI interaction by developing prototypes for emerging technologies like smart environments and robots.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
   
   - name: Community Engagement  
     subcategories:
@@ -283,7 +295,9 @@ categories:
           #   logo: cmu.svg
           #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
-  
+      - name: Other
+        items:
+        
   - name: Policy Recommendations 
     subcategories:
     - name: Data
@@ -376,6 +390,8 @@ categories:
         #   logo: cmu.svg
         #   repo_url: https://github.com/OpenForumAI/landscape
         #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Other
+      items:
   
   - name: Talent for Service 
     subcategories:
@@ -471,3 +487,5 @@ categories:
           #   logo: cmu.svg
           #   repo_url: https://github.com/OpenForumAI/landscape
           #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Other
+        items:
