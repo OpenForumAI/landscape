@@ -214,8 +214,8 @@ header:
 #   open_graph: <OPEN_GRAPH_IMAGE_URL>
 #
 images:
-  favicon: "https://raw.githubusercontent.com/lfnetworking/member_landscape/main/images/favicon.png"
-  open_graph: "https://raw.githubusercontent.com/lfnetworking/member_landscape/main/images/favicon.png"
+  favicon: "https://avatars.githubusercontent.com/u/176941200?s=200&v=4"
+  open_graph: "https://avatars.githubusercontent.com/u/176941200?s=200&v=4"
 
 # Logos viewbox (optional)
 #
