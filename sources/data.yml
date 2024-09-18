@@ -1,0 +1,491 @@
+# Landscape2 data
+#
+# This file contains the data that will be used to generate the landscape.
+#
+# Reference documentation: https://github.com/cncf/landscape2/blob/main/docs/config/data.yml
+
+categories:
+  - name: Research
+    subcategories:
+      - name: Data
+        items:
+          - name: Data Interaction Group (DIG)
+            description: DIG integrates machine learning and human-computer interaction to enable more intuitive data analysis tools.
+            homepage_url: https://dig.cmu.edu
+            logo: cmu.svg
+            # project: graduated
+          - name: Human-Centered Data Lab
+            description: This lab works with educational data to improve learning outcomes using AI-driven analysis and cognitive modeling.
+            homepage_url: https://www.cs.cmu.edu
+            logo: cmu.svg
+            project: sandbox
+            extra:
+              summary_tags: "security, networking, cloud"
+              tag: test-tag
+      - name: Design/architecture
+        items:
+          - name: Kittur Lab
+            description: This lab combines human and machine intelligence to help users process large volumes of information more efficiently.
+            homepage_url: http://kittur.org
+            logo: cmu.svg
+      - name: Code
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Compute
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Model weights
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Human feedback
+        items:
+          - name: eHeart Lab
+            description: Researches how interaction technologies and storytelling platforms can enhance personal expression and social connections.
+            homepage_url: https://www.cs.cmu.edu
+            logo: cmu.svg
+          - name: Natural Programming Lab
+            description: Focuses on human-centered design of programming languages and tools, making them easier for humans to understand and use.
+            homepage_url: https://www.cs.cmu.edu
+            logo: cmu.svg
+      - name: Evaluations
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Intended vs unintended usage
+        items:
+          - name: Community-Centered AI for Public Housing
+            description: Researchers use comics to explain how AI supports public housing systems, making AI accessible to marginalized communities.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+      - name: Expertise, education, training
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Oversight
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Other
+        items:
+          - name: Interactive Structures Lab
+            description: Focuses on computational tools that help novice users create interactive, functional structures with AI-supported digital fabrication.
+            homepage_url: http://interactive-structures.org
+            logo: cmu.svg
+
+  - name: Technical Prototypes
+    subcategories:
+      - name: Data
+        items:
+          - name: Wikibench
+            description: Wikibench provides tools for AI deployed in community contexts, addressing the limitations of datasets created without community input.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+            project: graduated
+          - name: Connected Experience Lab (CoEx Lab)
+            description: Focused on designing interactive systems to empower users to communicate and analyze data more effectively.
+            homepage_url: https://coexlab.com
+            logo: cmu.svg
+            project: graduated
+      - name: Design/architecture
+        items:
+          - name: "Jigsaw: Supporting Designers to Prototype Multimodal Applications"
+            description: TThis project helps designers assemble AI models for multimodal applications, enabling them to combine language, vision, and other modalities.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+      - name: Code
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Compute
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Model weights
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Human feedback
+        items:
+          - name: Voice Pilot Framework
+            description: The VoicePilot project at Carnegie Mellon University develops a speech interface for physically assistive robots, enhancing communication through large language models (LLMs). The framework enables personalized and robust voice commands, improving care for individuals with motor impairments. Tested on the Obi assistive feeding robot, the study established five guidelines for effective speech integration in assistive technology.
+            homepage_url: https://www.cmu.edu/news/stories/archives/2024/august/voicepilot-framework-enhances-communication-between-humans-and-physically-assistive-robots
+            logo: cmu.svg
+          - name: Eye into AI
+            description: A novel approach using games to evaluate explainable AI (XAI) techniques by gathering human feedback on model transparency.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+          - name: Future Interfaces Group (FIG)
+            description: FIG creates new interface technologies for immersive environments, including wearables and smart environments.
+            homepage_url: http://figlab.com
+            logo: cmu.svg
+      - name: Evaluations
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Intended vs unintended usage
+        items:
+          - name: Predicting and Visualizing Overdose Risk for Public Health
+            description: This project uses machine learning to predict opioid overdose risks, aiding public health efforts with data visualization tools.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+      - name: Expertise, education, training
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Oversight
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Other
+        items:
+          - name: "d.form and d.stable Labs"
+            description: This lab explores human-AI interaction by developing prototypes for emerging technologies like smart environments and robots.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+  
+  - name: Community Engagement  
+    subcategories:
+      - name: Data
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Design/architecture
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Code
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Compute
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Model weights
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Human feedback
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Evaluations
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Intended vs unintended usage
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Expertise, education, training
+        items:
+          - name: LearnLab
+            description: A research initiative that brings AI and learning science together to solve educational challenges, focusing on K-12 and higher education.
+            homepage_url: http://learnlab.org
+            logo: cmu.svg
+      - name: Oversight
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Other
+        items:
+        
+  - name: Policy Recommendations 
+    subcategories:
+    - name: Data
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Design/architecture
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Code
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Compute
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Model weights
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Human feedback
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Evaluations
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Intended vs unintended usage
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Expertise, education, training
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Oversight
+      items:
+        # - name: Item 6
+        #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+        #   description: This is the description of item 6
+        #   homepage_url: https://cncf.io
+        #   logo: cmu.svg
+        #   repo_url: https://github.com/OpenForumAI/landscape
+        #   twitter: https://twitter.com/CloudNativeFdn
+    - name: Other
+      items:
+  
+  - name: Talent for Service 
+    subcategories:
+      - name: Data
+        items:
+          - name: "LearnSphere: Learning Analytics and Data Sharing"
+            description: LearnSphere supports educational improvements by integrating data repositories to analyze learning patterns across platforms.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+      - name: Design/architecture
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Code
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Compute
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Model weights
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Human feedback
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Evaluations
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Intended vs unintended usage
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Expertise, education, training
+        items:
+          - name: Mixed-Reality for Science Learning (NoRILLA)
+            description: NoRILLA combines physical and virtual worlds in a mixed-reality environment, aimed at enhancing STEM education through interactive learning.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+          - name: Multiplier Effects in Math Education (MEME) Project
+            description: MEME aims to improve student outcomes by increasing engagement and self-regulation in math education.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+          - name: Personalized Learning Squared (PLUS)
+            description: PLUS seeks to enhance tutoring for marginalized students by combining human and AI-powered tutoring.
+            homepage_url: https://www.hcii.cmu.edu/research/human-centered-ai
+            logo: cmu.svg
+      - name: Oversight
+        items:
+          # - name: Item 6
+          #   crunchbase: https://www.crunchbase.com/organization/cloud-native-computing-foundation
+          #   description: This is the description of item 6
+          #   homepage_url: https://cncf.io
+          #   logo: cmu.svg
+          #   repo_url: https://github.com/OpenForumAI/landscape
+          #   twitter: https://twitter.com/CloudNativeFdn
+      - name: Other
+        items:
