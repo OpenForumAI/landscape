@@ -34,8 +34,7 @@ analytics:
 # landscape is prepared to be hosted at the root of the domain. However, if the
 # landscape will be hosted in a subpath, this value must be set accordingly.
 #
-# base_path: /<BASE_PATH>
-#
+base_path: /landscape
 
 # Categories (optional)
 #
