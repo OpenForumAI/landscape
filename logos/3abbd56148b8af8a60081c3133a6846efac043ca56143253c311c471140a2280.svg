@@ -12,7 +12,7 @@
    viewBox="0 0 576 792.00001"
    version="1.2"
    id="svg5"
-   sodipodi:docname="OSIApproved.svg"
+   sodipodi:docname="OurInSourceLogo.eps"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata11">
@@ -38,17 +38,17 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1600"
-     inkscape:window-height="836"
+     inkscape:window-height="863"
      id="namedview7"
      showgrid="false"
      units="in"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="283.77376"
-     inkscape:cy="362.21036"
+     inkscape:zoom="1"
+     inkscape:cx="180.72684"
+     inkscape:cy="645.05307"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="flowRoot3742" />
+     inkscape:current-layer="svg5" />
   <g
      id="surface480"
      transform="translate(56.319251,47.201249)">
@@ -170,10 +170,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="flowRoot3797">
       <path
-         d="m 140.2207,657.03621 h 2.53125 c 1.25,0 2.25,-0.32031 3,-0.96093 0.76563,-0.65625 1.14844,-1.48438 1.14844,-2.48438 0,-1.17187 -0.33594,-2.00781 -1.00781,-2.50781 -0.67188,-0.51563 -2.05559,0.13778 -3.1875,-0.77344 h -2.48438 z m 10.17188,-3.53906 c 0,1.25 -0.33594,2.35938 -1.00781,3.32813 -0.65625,0.95312 -1.58594,1.66406 -2.78907,2.13281 l 5.57813,9.25781 h -3.9375 l -4.85156,-8.29687 h -3.16407 v 8.29687 h -3.46875 v -20.88281 h 6.11719 c 2.59375,0 4.49219,0.50781 5.69531,1.52344 1.21875,1.01562 1.82813,2.56249 1.82813,4.64062 z m -24.77344,4.26563 c 0,-3.125 0.78125,-6.05469 2.34375,-8.78907 1.5625,-2.73437 3.71094,-4.89062 6.44531,-6.46875 2.73438,-1.57812 5.67969,-2.36718 8.83594,-2.36718 3.125,0 6.05469,0.78125 8.78906,2.34375 2.73438,1.5625 4.89063,3.71094 6.46875,6.44531 1.57813,2.73437 2.36719,5.67969 2.36719,8.83594 0,3.07812 -0.75781,5.96874 -2.27344,8.67187 -1.51562,2.70313 -3.64062,4.86719 -6.375,6.49219 -2.73437,1.625 -5.72656,2.4375 -8.97656,2.4375 -3.23437,0 -6.21875,-0.80469 -8.95312,-2.41406 -2.73438,-1.625 -4.86719,-3.78906 -6.39844,-6.49219 -1.51563,-2.70313 -2.27344,-5.60156 -2.27344,-8.69531 z m 2.46094,0 c 0,2.70312 0.67969,5.23437 2.03906,7.59375 1.35938,2.34375 3.21094,4.19531 5.55469,5.55468 2.35937,1.34375 4.88281,2.01563 7.57031,2.01563 2.71875,0 5.24219,-0.67969 7.57031,-2.03906 2.32813,-1.35938 4.17188,-3.19532 5.53125,-5.50782 1.375,-2.32812 2.0625,-4.86718 2.0625,-7.61718 0,-2.71875 -0.67968,-5.24219 -2.03906,-7.57032 -1.35937,-2.32812 -3.20312,-4.17187 -5.53125,-5.53125 -2.3125,-1.375 -4.84375,-2.0625 -7.59375,-2.0625 -2.71875,0 -5.24219,0.67969 -7.57031,2.03907 -2.32813,1.35937 -4.17969,3.20312 -5.55469,5.53125 -1.35937,2.3125 -2.03906,4.84375 -2.03906,7.59375 z"
-         id="path3805"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="cscscsccscccccccccscssccsssssssccssccsccsccsccs" />
+         d="m 38.220703,565.03621 h 2.53125 q 1.875,0 3,-0.96093 1.148438,-0.98438 1.148438,-2.48438 0,-1.75781 -1.007813,-2.50781 -1.007812,-0.77344 -3.1875,-0.77344 h -2.484375 z m 10.171875,-3.53906 q 0,1.875 -1.007812,3.32813 -0.984375,1.42968 -2.789063,2.13281 l 5.578125,9.25781 h -3.9375 l -4.851562,-8.29687 h -3.164063 v 8.29687 h -3.46875 v -20.88281 h 6.117188 q 3.890625,0 5.695312,1.52344 1.828125,1.52343 1.828125,4.64062 z m -24.773437,4.26563 q 0,-4.6875 2.34375,-8.78907 2.34375,-4.10156 6.445312,-6.46875 4.101563,-2.36718 8.835938,-2.36718 4.6875,0 8.789062,2.34375 4.101563,2.34375 6.46875,6.44531 2.367188,4.10156 2.367188,8.83594 0,4.61718 -2.273438,8.67187 -2.273437,4.05469 -6.375,6.49219 -4.101562,2.4375 -8.976562,2.4375 -4.851563,0 -8.953125,-2.41406 -4.101563,-2.4375 -6.398438,-6.49219 -2.273437,-4.05469 -2.273437,-8.69531 z m 2.460937,0 q 0,4.05468 2.039063,7.59375 2.039062,3.51562 5.554687,5.55468 3.539063,2.01563 7.570313,2.01563 4.078125,0 7.570312,-2.03906 3.492188,-2.03907 5.53125,-5.50782 2.0625,-3.49218 2.0625,-7.61718 0,-4.07813 -2.039062,-7.57032 -2.039063,-3.49218 -5.53125,-5.53125 -3.46875,-2.0625 -7.59375,-2.0625 -4.078125,0 -7.570313,2.03907 -3.492187,2.03906 -5.554687,5.53125 -2.039063,3.46875 -2.039063,7.59375 z"
+         style=""
+         id="path3805" />
     </g>
   </g>
   <ellipse
@@ -183,25 +182,4 @@
      cy="191.25"
      rx="229.24777"
      ry="226.62277" />
-  <flowRoot
-     xml:space="preserve"
-     id="flowRoot1262"
-     style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Open Sans;font-style:normal;font-weight:normal;font-size:72px;-inkscape-font-specification:Open Sans;line-height:125%;letter-spacing:0px;word-spacing:0px;font-stretch:normal;font-variant:normal;text-anchor:start;text-align:start;writing-mode:lr"><flowRegion
-       id="flowRegion1264"><rect
-         id="rect1266"
-         width="748.11896"
-         height="121.62237"
-         x="16.970562"
-         y="911.75024" /></flowRegion><flowPara
-       id="flowPara1268"></flowPara></flowRoot>  <text
-     xml:space="preserve"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54px;line-height:125%;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-     x="44.547718"
-     y="719.87512"
-     id="text1272"><tspan
-       sodipodi:role="line"
-       id="tspan1270"
-       x="44.547718"
-       y="719.87512"
-       style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:54px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Ultra-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.75px">Approved License</tspan></text>
 </svg>

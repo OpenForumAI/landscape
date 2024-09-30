@@ -145,20 +145,20 @@ featured_items:
 #   text: <TEXT>      # Copyright notice, for example
 #
 
-footer:
-  links:
-    facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
-    flickr: "https://www.flickr.com/photos/143247548@N03/albums"
-    github: "https://github.com/cncf"
-    homepage: "https://cncf.io"
-    instagram: "https://www.instagram.com/humans.of.cloudnative/"
-    linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
-    slack: "https://slack.cncf.io/"
-    twitch: "https://www.twitch.tv/cloudnativefdn"
-    twitter: "https://twitter.com/cloudnativefdn"
-    wechat: "https://www.cncf.io/wechat/"
-    youtube: "https://www.youtube.com/c/cloudnativefdn"
-  logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
+# footer:
+#   links:
+#     facebook: "https://www.facebook.com/CloudNativeComputingFoundation/"
+#     flickr: "https://www.flickr.com/photos/143247548@N03/albums"
+#     github: "https://github.com/cncf"
+#     homepage: "https://cncf.io"
+#     instagram: "https://www.instagram.com/humans.of.cloudnative/"
+#     linkedin: "https://www.linkedin.com/company/cloud-native-computing-foundation/"
+#     slack: "https://slack.cncf.io/"
+#     twitch: "https://www.twitch.tv/cloudnativefdn"
+#     twitter: "https://twitter.com/cloudnativefdn"
+#     wechat: "https://www.cncf.io/wechat/"
+#     youtube: "https://www.youtube.com/c/cloudnativefdn"
+#   logo: "https://raw.githubusercontent.com/cncf/artwork/master/other/cncf/horizontal/white/cncf-white.svg"
 
 
 # Grid items size (optional)
