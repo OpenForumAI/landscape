@@ -1,5 +1,7 @@
 # OFAI Research Landscape
 
+You can view the OFAI Research Landscape map here: https://openforumai.github.io/landscape/
+
 This is a project implemented with the use of https://github.com/cncf/landscape2
 
 To build and run the project locally you need to have the landscape2 CLI [installed](https://github.com/cncf/landscape2?tab=readme-ov-file#installation)
