@@ -30,4 +30,4 @@ categories:
     subcategories:
       - subcategory: "Contributing to the OFAI LAndscape"
         content: |
-          If you would like to contribute, please open an issue in the [OpenForumAI Landscape Repo](https://github.com/OpenForumAI/landscape/issues). If you are unsure about how to start, please email [info@openforumai.org](mailto:info@openforumai.org) 
+          If you would like to contribute, please open a pull request in the [OpenForumAI Landscape Repo](https://github.com/OpenForumAI/landscape/pulls). If you are unsure about how to start, you could check out our [README](https://github.com/OpenForumAI/landscape?tab=readme-ov-file#ofai-research-landscape) or email [info@openforumai.org](mailto:info@openforumai.org) 
