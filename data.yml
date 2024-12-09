@@ -82,6 +82,10 @@ categories:
             logo: cc-infrastructure-of-sharing.svg
       - name: Code
         items:
+          - name: Good Retrieval Augmented Generation (GRAG)
+            description: A simple open-source python package that provides an easy end-to-end solution for implementing Retrieval Augmented Generation (RAG) 
+            homepage_url: https://g-rag.org/
+            logo: gw-grag.svg
       - name: Compute
         items:
           - name: Eva DB
