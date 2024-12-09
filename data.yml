@@ -62,6 +62,10 @@ categories:
             description: "ICML 2024 related work focused on improving Llama2 speed and perplexity. When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models"
             homepage_url: https://github.com/GATECH-EIC/Linearized-LLM
             logo: gt-linearized-llm.svg
+          - name: Nested Fusion
+            description: AI models for Mars rover data analysis; Dimensioanlity Reduction and Latent Structure Analysis of Multi-Scale Nested Data for M2020 PIXL RGBU and XRF Data
+            homepage_url: https://github.com/pixlise/NestedFusion
+            logo: gt-nested-fusion.svg
       - name: Design/architecture
         items:
           - name: Dietrich Analysis Research Education Ecosystem (DARE)
@@ -102,6 +106,10 @@ categories:
             description: "ICML 2024 related work focused on improving Llama2 speed and perplexity. When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models"
             homepage_url: https://github.com/GATECH-EIC/Linearized-LLM
             logo: gt-linearized-llm.svg
+          - name: Nested Fusion
+            description: AI models for Mars rover data analysis; Dimensioanlity Reduction and Latent Structure Analysis of Multi-Scale Nested Data for M2020 PIXL RGBU and XRF Data
+            homepage_url: https://github.com/pixlise/NestedFusion
+            logo: gt-nested-fusion.svg
       - name: Human feedback
         items:
           - name: Operational Gaming Engine (OGE)
