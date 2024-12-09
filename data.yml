@@ -83,9 +83,13 @@ categories:
             homepage_url: https://github.com/Teachable-AI-Lab/cobweb
             logo: gt-teachable-ai-lab.svg
           - name: Eva DB
-            description: Tool to use SQL and database semantics to create AI systems 
+            description: Tool to use SQL and database semantics to create AI systems
             homepage_url: https://github.com/georgia-tech-db/evadb
             logo: gt-eva-db.svg
+          - name: Invertible Networks
+            description: Julia toolkit for creating invertible neural network solutions. Applied for work related to seismic (oil and gas) exploration
+            homepage_url: https://github.com/slimgroup/InvertibleNetworks.jl
+            logo: gt-invertible-networks.svg
       - name: Human feedback
         items:
           - name: Operational Gaming Engine (OGE)
