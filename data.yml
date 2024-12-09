@@ -70,6 +70,10 @@ categories:
         items:
       - name: Model weights
         items:
+          - name: Teachable AI Lab - Cobweb
+            description: Part of AI-ALOE center focused on adult education, Cobweb is a clustering model which supports incremental concept learning from fewer examples
+            homepage_url: https://github.com/Teachable-AI-Lab/cobweb
+            logo: gt-teachable-ai-lab.svg
       - name: Human feedback
         items:
           - name: Operational Gaming Engine (OGE)
