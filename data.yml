@@ -70,6 +70,10 @@ categories:
             description: AI models for Mars rover data analysis; Dimensioanlity Reduction and Latent Structure Analysis of Multi-Scale Nested Data for M2020 PIXL RGBU and XRF Data
             homepage_url: https://github.com/pixlise/NestedFusion
             logo: gt-nested-fusion.svg
+          - name: Conscience CACHE Challenges
+            description: The CACHE (Critical Assessment of Computation Hit-finding Experiments) Challenges offer an open competition platform to help accelerate one of the early stages of drug discovery. Researchers from academia, industry, and nonprofits are invited to deploy their best computational methods to predict molecules that will bind to a predefined target linked to a specific disease, a critical step in the drug discovery pipeline known as hit-finding. Their predictions are evaluated and benchmarked in a state-of-the-art laboratory, by our partners at the Structural Genomics Consortium (SGC). All the benchmarked results are shared openly and publicly with the world, and all chemical structures are made available without patent to all.
+            homepage_url: https://conscience.ca/cache-challenge/
+            logo: conscience-cache-challenges.svg
       - name: Design/architecture
         items:
           - name: Dietrich Analysis Research Education Ecosystem (DARE)
@@ -118,6 +122,10 @@ categories:
             description: AI models for Mars rover data analysis; Dimensioanlity Reduction and Latent Structure Analysis of Multi-Scale Nested Data for M2020 PIXL RGBU and XRF Data
             homepage_url: https://github.com/pixlise/NestedFusion
             logo: gt-nested-fusion.svg
+          - name: Conscience Community
+            description: Conscience is a non-profit focused on addressing market failure in drug development. Based in Canada, and launched in partnership with the Structural Genomics Consortium, the organization is supported with a $49M investment from the Government of Canada, and led by some of the industry’s most respected academics, researchers, industry and community leaders.
+            homepage_url: https://conscience.ca/collaborate/join-our-network/
+            logo: conscience-community.svg
       - name: Human feedback
         items:
           - name: Operational Gaming Engine (OGE)
@@ -163,6 +171,10 @@ categories:
             description: Over the last several years, Creative Commons has convened conversations about sharing in a world of Generative AI. These conversations have ranged from conferences, panels, sector-specific discussions, and invitational workshops. At the intersection of open advocacy and legal infrastructure, Creative Commons amplifies the diverse voices of individuals who want to share and contribute to the public good. This perspective is essential in ensuring that the AI ecosystem strengthens open practices rather than deters from them.
             homepage_url: https://creativecommons.org/tag/generative-ai/
             logo: cc-community-engagement.svg
+          - name: Conscience CACHE Challenges
+            description: The CACHE (Critical Assessment of Computation Hit-finding Experiments) Challenges offer an open competition platform to help accelerate one of the early stages of drug discovery. Researchers from academia, industry, and nonprofits are invited to deploy their best computational methods to predict molecules that will bind to a predefined target linked to a specific disease, a critical step in the drug discovery pipeline known as hit-finding. Their predictions are evaluated and benchmarked in a state-of-the-art laboratory, by our partners at the Structural Genomics Consortium (SGC). All the benchmarked results are shared openly and publicly with the world, and all chemical structures are made available without patent to all.
+            homepage_url: https://conscience.ca/cache-challenge/
+            logo: conscience-cache-challenges.svg
       - name: Design/architecture
         items:
       - name: Code
@@ -179,6 +191,10 @@ categories:
             logo: osi.svg
       - name: Model weights
         items:
+          - name: Conscience Community
+            description: Conscience is a non-profit focused on addressing market failure in drug development. Based in Canada, and launched in partnership with the Structural Genomics Consortium, the organization is supported with a $49M investment from the Government of Canada, and led by some of the industry’s most respected academics, researchers, industry and community leaders.
+            homepage_url: https://conscience.ca/collaborate/join-our-network/
+            logo: conscience-community.svg
       - name: Human feedback
         items:
       - name: Evaluations
