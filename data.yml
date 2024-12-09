@@ -58,6 +58,10 @@ categories:
             description: Tool to use SQL and database semantics to create AI systems 
             homepage_url: https://github.com/georgia-tech-db/evadb
             logo: gt-eva-db.svg
+          - name: Linearized LLM
+            description: "ICML 2024 related work focused on improving Llama2 speed and perplexity. When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models"
+            homepage_url: https://github.com/GATECH-EIC/Linearized-LLM
+            logo: gt-linearized-llm.svg
       - name: Design/architecture
         items:
           - name: Dietrich Analysis Research Education Ecosystem (DARE)
@@ -76,6 +80,10 @@ categories:
             description: Tool to use SQL and database semantics to create AI systems 
             homepage_url: https://github.com/georgia-tech-db/evadb
             logo: gt-eva-db.svg
+          - name: Linearized LLM
+            description: "ICML 2024 related work focused on improving Llama2 speed and perplexity. When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models"
+            homepage_url: https://github.com/GATECH-EIC/Linearized-LLM
+            logo: gt-linearized-llm.svg
       - name: Model weights
         items:
           - name: Teachable AI Lab - Cobweb
@@ -90,6 +98,10 @@ categories:
             description: Julia toolkit for creating invertible neural network solutions. Applied for work related to seismic (oil and gas) exploration
             homepage_url: https://github.com/slimgroup/InvertibleNetworks.jl
             logo: gt-invertible-networks.svg
+          - name: Linearized LLM
+            description: "ICML 2024 related work focused on improving Llama2 speed and perplexity. When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models"
+            homepage_url: https://github.com/GATECH-EIC/Linearized-LLM
+            logo: gt-linearized-llm.svg
       - name: Human feedback
         items:
           - name: Operational Gaming Engine (OGE)
