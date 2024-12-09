@@ -54,6 +54,10 @@ categories:
             description: CC serves as the legal layer of the open infrastructure of sharing, which is an essential digital public good. Our goal is to enable a strong and resilient open infrastructure that empowers sharing and access in the public interest. The CC licenses ensure that humans and machines benefit from the commons in ways that serve the public good. The commons that are fostered by open practices and open licenses are also an essential part of ensuring open datasets for a public AI ecosystem. 
             homepage_url: https://creativecommons.org/share-your-work/cclicenses/
             logo: cc-infrastructure-of-sharing.svg
+          - name: Eva DB
+            description: Tool to use SQL and database semantics to create AI systems 
+            homepage_url: https://github.com/georgia-tech-db/evadb
+            logo: gt-eva-db.svg
       - name: Design/architecture
         items:
           - name: Dietrich Analysis Research Education Ecosystem (DARE)
@@ -68,12 +72,20 @@ categories:
         items:
       - name: Compute
         items:
+          - name: Eva DB
+            description: Tool to use SQL and database semantics to create AI systems 
+            homepage_url: https://github.com/georgia-tech-db/evadb
+            logo: gt-eva-db.svg
       - name: Model weights
         items:
           - name: Teachable AI Lab - Cobweb
             description: Part of AI-ALOE center focused on adult education, Cobweb is a clustering model which supports incremental concept learning from fewer examples
             homepage_url: https://github.com/Teachable-AI-Lab/cobweb
             logo: gt-teachable-ai-lab.svg
+          - name: Eva DB
+            description: Tool to use SQL and database semantics to create AI systems 
+            homepage_url: https://github.com/georgia-tech-db/evadb
+            logo: gt-eva-db.svg
       - name: Human feedback
         items:
           - name: Operational Gaming Engine (OGE)
