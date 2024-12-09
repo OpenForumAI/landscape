@@ -99,7 +99,7 @@ categories:
     subcategories:
       - name: Data
         items:
-          - name: "OSI Open Source AI Definition"
+          - name: OSI Open Source AI Definition
             description: The Open Source AI Deep Dive project by the Open Source Initiative is a global, multi-stakeholder effort to define what constitutes "Open Source AI." It seeks to create a framework for AI systems that ensures transparency, collaboration, and the four freedoms (use, study, share, modify). The project involves experts from diverse fields working together through co-design methods to establish a widely accepted definition and legal guidelines for open-source AI development.
             homepage_url: https://opensource.org/deepdive
             logo: osi.svg
@@ -107,13 +107,13 @@ categories:
         items:
       - name: Code
         items:
-          - name: "OSI Open Source AI Definition"
+          - name: OSI Open Source AI Definition
             description: The Open Source AI Deep Dive project by the Open Source Initiative is a global, multi-stakeholder effort to define what constitutes "Open Source AI." It seeks to create a framework for AI systems that ensures transparency, collaboration, and the four freedoms (use, study, share, modify). The project involves experts from diverse fields working together through co-design methods to establish a widely accepted definition and legal guidelines for open-source AI development.
             homepage_url: https://opensource.org/deepdive
             logo: osi.svg
       - name: Compute
         items:
-          - name: "OSI Open Source AI Definition"
+          - name: OSI Open Source AI Definition
             description: The Open Source AI Deep Dive project by the Open Source Initiative is a global, multi-stakeholder effort to define what constitutes "Open Source AI." It seeks to create a framework for AI systems that ensures transparency, collaboration, and the four freedoms (use, study, share, modify). The project involves experts from diverse fields working together through co-design methods to establish a widely accepted definition and legal guidelines for open-source AI development.
             homepage_url: https://opensource.org/deepdive
             logo: osi.svg
@@ -136,21 +136,25 @@ categories:
     subcategories:
       - name: Data
         items:
-          - name: "OSI Open Source AI Definition"
+          - name: OSI Open Source AI Definition
             description: The Open Source AI Deep Dive project by the Open Source Initiative is a global, multi-stakeholder effort to define what constitutes "Open Source AI." It seeks to create a framework for AI systems that ensures transparency, collaboration, and the four freedoms (use, study, share, modify). The project involves experts from diverse fields working together through co-design methods to establish a widely accepted definition and legal guidelines for open-source AI development.
             homepage_url: https://opensource.org/deepdive
             logo: osi.svg
+          - name: Creative Commons - Policy
+            description: Creative Commons actively monitors policy discussions related to AI legislation and aims to act as a public interest voice in policy discussions. Creative Commons also provides analyses of the AI policy landscape as it relates to the CC licenses.
+            homepage_url: https://creativecommons.org/category/policy/
+            logo: cc-policy.svg
       - name: Design/architecture
         items:
       - name: Code
         items:
-          - name: "OSI Open Source AI Definition"
+          - name: OSI Open Source AI Definition
             description: The Open Source AI Deep Dive project by the Open Source Initiative is a global, multi-stakeholder effort to define what constitutes "Open Source AI." It seeks to create a framework for AI systems that ensures transparency, collaboration, and the four freedoms (use, study, share, modify). The project involves experts from diverse fields working together through co-design methods to establish a widely accepted definition and legal guidelines for open-source AI development.
             homepage_url: https://opensource.org/deepdive
             logo: osi.svg
       - name: Compute
         items:
-          - name: "OSI Open Source AI Definition"
+          - name: OSI Open Source AI Definition
             description: The Open Source AI Deep Dive project by the Open Source Initiative is a global, multi-stakeholder effort to define what constitutes "Open Source AI." It seeks to create a framework for AI systems that ensures transparency, collaboration, and the four freedoms (use, study, share, modify). The project involves experts from diverse fields working together through co-design methods to establish a widely accepted definition and legal guidelines for open-source AI development.
             homepage_url: https://opensource.org/deepdive
             logo: osi.svg
