@@ -53,7 +53,7 @@ categories:
           - name: DARE Analysis Tools
             description: The D.A.R.E. system analyzes qualitative datasets to reduce administrative burden and increase efficiency, from surveys to transcripts. It quickly identifies themes, changes, and sentiment, while keeping human experts in the loop for validation. The system incorporates additional data for correlative and longitudinal analysis.
             homepage_url: https://www.cmu.edu/dietrich/
-            logo: cmu.svg
+            logo: cmu-dare.svg
           - name: Creative Commons Open Infrastructure of Sharing
             description: CC serves as the legal layer of the open infrastructure of sharing, which is an essential digital public good. Our goal is to enable a strong and resilient open infrastructure that empowers sharing and access in the public interest. The CC licenses ensure that humans and machines benefit from the commons in ways that serve the public good. The commons that are fostered by open practices and open licenses are also an essential part of ensuring open datasets for a public AI ecosystem. 
             homepage_url: https://creativecommons.org/share-your-work/cclicenses/
@@ -79,7 +79,7 @@ categories:
           - name: Dietrich Analysis Research Education Ecosystem (DARE)
             description: D.A.R.E., an ongoing open-source project by Dietrich Computing, aims to develop a comprehensive AI system that integrates data sources and leverages LLMs to enhance academic support. The unified API server enables flexible AI applications to address diverse college challenges, democratizing access to advanced capabilities in a controlled environment.
             homepage_url: https://www.cmu.edu/dietrich/
-            logo: cmu.svg
+            logo: cmu-dare.svg
           - name: Creative Commons Open Infrastructure of Sharing
             description: CC serves as the legal layer of the open infrastructure of sharing, which is an essential digital public good. Our goal is to enable a strong and resilient open infrastructure that empowers sharing and access in the public interest. The CC licenses ensure that humans and machines benefit from the commons in ways that serve the public good. The commons that are fostered by open practices and open licenses are also an essential part of ensuring open datasets for a public AI ecosystem. 
             homepage_url: https://creativecommons.org/share-your-work/cclicenses/
@@ -131,7 +131,7 @@ categories:
           - name: Operational Gaming Engine (OGE)
             description: An AI platform develops immersive simulations to enhance strategic decision-making. Users practice and refine processes, receiving feedback to improve. The system educates players on LLM techniques like system prompting and RAG, empowering transformative decision-making experiences across diverse fields.
             homepage_url: https://www.cmu.edu/dietrich/
-            logo: cmu.svg
+            logo: cmu-oge.svg
           - name: Student Intervention/Muddiest point System
             description: An AI-powered system for analyzing student understanding, tracking attendance, and providing early intervention support. It identifies areas where students struggle and offers targeted assistance. The system also helps instructors optimize their teaching strategies based on real-time feedback.
             homepage_url: https://www.cmu.edu/dietrich/
@@ -145,15 +145,15 @@ categories:
           - name: Socratic Books
             description: AI-powered educational tools delivering personalized content through conversational interactions. These textbooks adapt to each student's pace and interests, using the Socratic method to ensure comprehensive understanding. They can provide instructors with insights on individual and class-wide learning progress, enabling targeted interventions and curriculum adjustments.
             homepage_url: https://www.cmu.edu/dietrich/
-            logo: cmu.svg
+            logo: cmu-socratic-books.svg
           - name: Robocrates
             description: Debate/Argumentation bots designed to deepen students' understanding of philosophical arguments and improve critical thinking. These bots engage students in Socratic dialogues, challenging assumptions and encouraging logical reasoning. They can simulate various philosophical perspectives to broaden students' understanding.
             homepage_url: https://www.cmu.edu/dietrich/
-            logo: cmu.svg
+            logo: cmu-robocrates.svg
           - name: Micro-Lecture Pipeline
             description: AI-generated short slides explaining key concepts with voiceover, integrated with assessments. The system will be developed to adapt content to different levels of complexity to assist in lecture preparation for instructors. 
             homepage_url: https://www.cmu.edu/dietrich/
-            logo: cmu.svg
+            logo: cmu-micro-lecture-pipeline.svg
       - name: Oversight
         items:
       - name: Other
