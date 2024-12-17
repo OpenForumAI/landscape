@@ -86,6 +86,14 @@ categories:
             description: The CACHE (Critical Assessment of Computation Hit-finding Experiments) Challenges offer an open competition platform to help accelerate one of the early stages of drug discovery. Researchers from academia, industry, and nonprofits are invited to deploy their best computational methods to predict molecules that will bind to a predefined target linked to a specific disease, a critical step in the drug discovery pipeline known as hit-finding. Their predictions are evaluated and benchmarked in a state-of-the-art laboratory, by our partners at the Structural Genomics Consortium (SGC). All the benchmarked results are shared openly and publicly with the world, and all chemical structures are made available without patent to all.
             homepage_url: https://conscience.ca/cache-challenge/
             logo: conscience-cache-challenges.svg
+          - name: Graph Network Simulator
+            description: Graph Network-based Simulator (GNS) is a framework for developing generalizable, efficient, and accurate machine learning (ML)-based surrogate models for particulate and fluid systems using Graph Neural Networks (GNNs). GNS code is a viable surrogate for numerical methods such as Material Point Method, Smooth Particle Hydrodynamics and Computational Fluid dynamics. GNS exploits distributed data parallelism to achieve fast multi-GPU training. The GNS code can handle complex boundary conditions and multi-material interactions. GNS is a viable surrogate for numerical models such as Material Point Method, Smooth Particle Hydrodynamics and Computational Fluid dynamics.
+            homepage_url: https://www.geoelements.org/gns/#/
+            logo: u-texas-gns.svg
+          - name: Operator Learning
+            description: We present Basis-to-Basis (B2B) operator learning, a novel approach for learning operators on Hilbert spaces of functions based on the foundational ideas of function encoders. We decompose the task of learning operators into two parts, learning sets of basis functions for both the input and output spaces, and learning a potentially nonlinear mapping between the coefficients of the basis functions. B2B operator learning circumvents many challenges of prior works, such as requiring data to be at fixed locations, by leveraging classic techniques such as least-squares to compute the coefficients.
+            homepage_url: https://tyler-ingebrand.github.io/OperatorFunctionEncoder/
+            logo: u-texas-opl.svg
       - name: Design/architecture
         items:
           - name: Dietrich Analysis Research Education Ecosystem (DARE)
@@ -112,6 +120,14 @@ categories:
             description: "ICML 2024 related work focused on improving Llama2 speed and perplexity. When Linear Attention Meets Autoregressive Decoding: Towards More Effective and Efficient Linearized Large Language Models"
             homepage_url: https://github.com/GATECH-EIC/Linearized-LLM
             logo: gt-linearized-llm.svg
+          - name: Graph Network Simulator
+            description: Graph Network-based Simulator (GNS) is a framework for developing generalizable, efficient, and accurate machine learning (ML)-based surrogate models for particulate and fluid systems using Graph Neural Networks (GNNs). GNS code is a viable surrogate for numerical methods such as Material Point Method, Smooth Particle Hydrodynamics and Computational Fluid dynamics. GNS exploits distributed data parallelism to achieve fast multi-GPU training. The GNS code can handle complex boundary conditions and multi-material interactions. GNS is a viable surrogate for numerical models such as Material Point Method, Smooth Particle Hydrodynamics and Computational Fluid dynamics.
+            homepage_url: https://www.geoelements.org/gns/#/
+            logo: logos/u-texas-gns.svg 
+          - name: Operator Learning
+            description: "We present Basis-to-Basis (B2B) operator learning, a novel approach for learning operators on Hilbert spaces of functions based on the foundational ideas of function encoders. We decompose the task of learning operators into two parts: learning sets of basis functions for both the input and output spaces, and learning a potentially nonlinear mapping between the coefficients of the basis functions. B2B operator learning circumvents many challenges of prior works, such as requiring data to be at fixed locations, by leveraging classic techniques such as least-squares to compute the coefficients."
+            homepage_url: https://tyler-ingebrand.github.io/OperatorFunctionEncoder/
+            logo: logos/u-texas-opl.svg
       - name: Model weights
         items:
           - name: Teachable AI Lab - Cobweb
