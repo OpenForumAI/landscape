@@ -129,7 +129,7 @@ categories:
             homepage_url: https://www.geoelements.org/gns/#/
             logo: u-texas-gns.svg
           - name: Operator Learning
-            description: "We present Basis-to-Basis (B2B) operator learning, a novel approach for learning operators on Hilbert spaces of functions based on the foundational ideas of function encoders. We decompose the task of learning operators into two parts: learning sets of basis functions for both the input and output spaces, and learning a potentially nonlinear mapping between the coefficients of the basis functions. B2B operator learning circumvents many challenges of prior works, such as requiring data to be at fixed locations, by leveraging classic techniques such as least-squares to compute the coefficients."
+            description: We present Basis-to-Basis (B2B) operator learning, a novel approach for learning operators on Hilbert spaces of functions based on the foundational ideas of function encoders. We decompose the task of learning operators into two parts, learning sets of basis functions for both the input and output spaces, and learning a potentially nonlinear mapping between the coefficients of the basis functions. B2B operator learning circumvents many challenges of prior works, such as requiring data to be at fixed locations, by leveraging classic techniques such as least-squares to compute the coefficients.
             homepage_url: https://tyler-ingebrand.github.io/OperatorFunctionEncoder/
             logo: u-texas-opl.svg
       - name: Model weights
