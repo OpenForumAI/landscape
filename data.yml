@@ -97,7 +97,7 @@ categories:
           - name: Pangea Multilingual Multimodal Large Language Model (MLLM) 
             description: Carnegie Mellon University's School of Computer Science developed Pangea. The open-source, multilingual multimodal large language model (MLLM) recognizes 39 languages and was trained on six million data samples to create a culturally inclusive model.
             homepage_url: https://neulab.github.io/Pangea/
-            logo: logos/cmu-pangea-MMLLM.svg           
+            logo: cmu-pangea-MMLLM.svg           
       - name: Design/architecture
         items:
           - name: Dietrich Analysis Research Education Ecosystem (DARE)
